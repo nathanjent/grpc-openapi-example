@@ -8,7 +8,7 @@ communications defined by OpenAPI.
 
 ## Experimental Work from AspLabs
 
-An [experimental project](jhttps://github.com/aspnet/AspLabs/tree/master/src/GrpcHttpApi/sample)
+An [experimental project](https://github.com/aspnet/AspLabs/tree/master/src/GrpcHttpApi/sample)
 exists that combines the Swagger OpenAPI generator with
 the gRPC API generated from protocol buffers (`.proto` files).
 The ChumBucket project shows an example using this setup.
